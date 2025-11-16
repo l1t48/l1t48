@@ -52,6 +52,17 @@ A role-based banking platform with authentication, dashboards, and data visualiz
   - Tested logic and focus on clean project structure  
 ---
 
+#### 🖥 Terminal-Based Portfolio
+An interactive, command-driven portfolio that runs directly in the terminal, designed to mimic a CLI environment with smooth animations and a modern aesthetic.
+
+- **Stack:** React, Tailwind CSS, Motion (Framer Motion), Docker  
+- **Highlights:**
+  - Clean terminal-style UI with typed-command simulation  
+  - Smooth animations using Motion for a realistic CLI feel  
+  - Fully containerized with Docker for easy deployment  
+  - Responsive design and fast performance  
+  - Showcases personal info, skills, and projects in an engaging format  
+---
 
 ### 🎓 Background
 
