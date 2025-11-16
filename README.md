@@ -52,14 +52,6 @@ A role-based banking platform with authentication, dashboards, and data visualiz
   - Tested logic and focus on clean project structure  
 ---
 
-#### 🧰 Machine Logging Platform
-An interactive logging platform to monitor and track machine data.
-
-- Designed the system architecture and UI to present machine events clearly  
-- Connected front-end views with backend APIs for real-time or near real-time data  
-- Built with focus on reliability, maintainability, and user-friendly workflows  
-
-#
 
 ### 🎓 Background
 
