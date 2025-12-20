@@ -64,6 +64,21 @@ An interactive, command-driven portfolio that runs directly in the terminal, des
   - Showcases personal info, skills, and projects in an engaging format  
 ---
 
+#### 📚 Book & Quotes Management Frontend
+
+A fullstack application for managing books and quotes, featuring real-time updates and a responsive UI.
+
+- **Stack:** Angular 20, TypeScript, Bootstrap, Font Awesome, SignalR, .NET 9 (ASP)
+- **Highlights:**
+- Full CRUD operations for books and quotes
+- Authentication with token management via HTTP interceptor
+- Real-time updates using SignalR for immediate content synchronization
+- Responsive, user-friendly design with Bootstrap styling
+
+Testing Note: The backend is hosted on a free-tier service that sleeps after inactivity. Access the backend test endpoint
+ first and wait for a response before using the frontend. Avoid using browser anonymous mode, as cookie-based authentication is required.
+
+
 ### 🎓 Background
 
 - 🎓 **B.Sc. in Computer Science**, Karlstad University, Sweden  
