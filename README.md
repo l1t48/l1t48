@@ -78,6 +78,7 @@ A fullstack application for managing books and quotes, featuring real-time updat
 Testing Note: The backend is hosted on a free-tier service that sleeps after inactivity. Access the backend test endpoint
  first and wait for a response before using the frontend. Avoid using browser anonymous mode, as cookie-based authentication is required.
 
+#
 
 ### 🎓 Background
 
