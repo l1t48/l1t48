@@ -38,7 +38,6 @@ I'm a software developer and computer science graduate building practical, real-
           
 <br />
 <br />
-<br />
 
 ---
 
@@ -52,8 +51,9 @@ A role-based banking platform with authentication, dashboards, and data visualiz
   - Role-based access for different user types  
   - Secure JWT authentication and protected routes  
   - Visual dashboards and charts for key banking metrics  
-  - Tested logic and focus on clean project structure  
----
+  - Tested logic and focus on clean project structure
+
+#
 
 #### 🔳 Terminal-Based Portfolio
 An interactive, command-driven portfolio that runs directly in the terminal, designed to mimic a CLI environment with smooth animations and a modern aesthetic.
@@ -64,8 +64,9 @@ An interactive, command-driven portfolio that runs directly in the terminal, des
   - Smooth animations using Motion for a realistic CLI feel  
   - Fully containerized with Docker for easy deployment  
   - Responsive design and fast performance  
-  - Showcases personal info, skills, and projects in an engaging format  
----
+  - Showcases personal info, skills, and projects in an engaging format
+
+#
 
 #### ❝❞ Book & Quotes Management Frontend
 
@@ -81,14 +82,14 @@ A fullstack application for managing books and quotes, featuring real-time updat
 Testing Note: The backend is hosted on a free-tier service that sleeps after inactivity. Access the backend test endpoint
  first and wait for a response before using the frontend. Avoid using browser anonymous mode, as cookie-based authentication is required.
 
-#
+---
 
 ### 🎓 & 💼Background
 
 - **B.Sc. in Computer Science**, Karlstad University, Sweden  
 - Experience with both **front-end** and **back-end** development in academic and industry-collaborative projects  
 
-#
+---
 
 ### 📊 Stats
 
@@ -98,5 +99,5 @@ Testing Note: The backend is hosted on a free-tier service that sleeps after ina
 ![GitHub Streak](https://streak-stats.demolab.com?user=l1t48&theme=gruvbox&border_radius=4.5)
 -->
 
-#
+---
 
