@@ -38,6 +38,8 @@ I'm a software developer and computer science graduate building practical, real-
           
 <br />
 
+<br />
+
 #
 
 ### 🗂️ Featured Projects
