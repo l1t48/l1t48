@@ -37,7 +37,7 @@ I'm a software developer and computer science graduate building practical, real-
 <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
           
 <br />
-
+<br />
 <br />
 
 ---
