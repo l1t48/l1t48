@@ -90,5 +90,3 @@ Testing Note: The backend is hosted on a free-tier service that sleeps after ina
 - **B.Sc. in Computer Science**, Karlstad University, Sweden  
 - Experience with both **front-end** and **back-end** development in academic and industry-collaborative projects  
 
----
-
