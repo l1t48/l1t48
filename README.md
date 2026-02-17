@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-I'm a software developer and computer science graduate building practical, real-world applications from the ground up — from understanding requirements and designing the architecture, to implementing clean, testable code on both front-end and back-end. I enjoy working with modern JavaScript frameworks, APIs, and databases to solve real problems and create smooth user experiences.
+Software Developer with a B.Sc. in Computer Science. I specialize in Full-Stack development and secure system design. I deliver end-to-end solutions, from UI and front-end development to backend logic, APIs, database design, testing, and deployment. 
 
    <p align="left">
       <a href="https://l1t48.github.io/Portfolio/">
@@ -85,8 +85,11 @@ Testing Note: The backend is hosted on a free-tier service that sleeps after ina
 
 ---
 
-### 🎓 & 💼Background
+### 🎓 Background
 
 - **B.Sc. in Computer Science**, Karlstad University, Sweden  
 - Experience with both **front-end** and **back-end** development in academic and industry-collaborative projects  
 
+</br>
+
+---
