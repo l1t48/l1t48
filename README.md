@@ -92,13 +92,3 @@ Testing Note: The backend is hosted on a free-tier service that sleeps after ina
 
 ---
 
-### 📊 Stats
-
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1t48&show_icons=true&theme=gruvbox)
-
-<!-- You can also enable this if you like:
-![GitHub Streak](https://streak-stats.demolab.com?user=l1t48&theme=gruvbox&border_radius=4.5)
--->
-
----
-
