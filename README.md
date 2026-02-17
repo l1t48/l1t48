@@ -1,6 +1,6 @@
 # </> Adnan Hamdan
 
-**`Full-Stack Developer & Computer Science Graduate`**
+**`Full-Stack Developer`**
 
 I'm a software developer and computer science graduate building practical, real-world applications from the ground up — from understanding requirements and designing the architecture, to implementing clean, testable code on both front-end and back-end. I enjoy working with modern JavaScript frameworks, APIs, and databases to solve real problems and create smooth user experiences.
 
