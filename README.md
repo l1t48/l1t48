@@ -29,3 +29,21 @@ Software Developer with a B.Sc. in Computer Science. I specialize in Full-Stack 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<p align="center">
+   <a href="https://github.com/l1t48/InkAndInsight-Frontend">
+     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=InkAndInsight-Frontend&theme=tokyonight" />
+   </a>    
+   <a href="https://github.com/l1t48/EasyBank">
+     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=EasyBank&theme=tokyonight"/>
+   </a>
+   <a href="https://github.com/l1t48/Interactive_Terminal_Portfolio">
+     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Interactive_Terminal_Portfolio&theme=tokyonight"/>
+   </a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
