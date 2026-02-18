@@ -22,9 +22,9 @@ Software Developer with a B.Sc. in Computer Science. I specialize in Full-Stack 
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=l1t48&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l1t48&layout=compact&langs_count=8&theme=blue_navy&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1t48&theme=blue_navy&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=l1t48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l1t48&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1t48&theme=tokyonight&count_private=true" />
 </a>
 </p>
 
