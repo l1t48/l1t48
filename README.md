@@ -3,7 +3,7 @@
 <!-- Readme typing svg by DenverCoder1 — https://github.com/denvercoder1/readme-typing-svg — used under MIT License. -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BCF7&width=435&lines=Full-Stack+Developer;Freelancer" alt="Typing SVG" /></a>
 
-Software Developer with a B.Sc. in Computer Science. I specialize in Full-Stack development and secure system design. I deliver end-to-end solutions, from UI and front-end development to backend logic, APIs, database design, testing, and deployment. 
+Fullstack Developer with a B.Sc. in Computer Science. I specialize in Full-Stack development and secure system design. I deliver end-to-end solutions, from UI and front-end development to backend logic, APIs, database design, testing, and deployment. 
 
    <p align="left">
       <a href="https://l1t48.github.io/Portfolio/">
