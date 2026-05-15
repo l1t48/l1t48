@@ -40,8 +40,8 @@ Fullstack Developer with a B.Sc. in Computer Science. I specialize in Full-Stack
    <a href="https://github.com/l1t48/EasyBank">
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=EasyBank&theme=tokyonight"/>
    </a>
-   <a href="https://github.com/l1t48/Interactive_Terminal_Portfolio">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Interactive_Terminal_Portfolio&theme=tokyonight"/>
+   <a href="https://github.com/l1t48/JobSeeker">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=JobSeeker&theme=tokyonight"/>
    </a>
 </p>
 
