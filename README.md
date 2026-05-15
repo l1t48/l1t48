@@ -15,7 +15,7 @@ Fullstack Developer with a B.Sc. in Computer Science. I specialize in Full-Stack
 </br>
 
 <!-- Icons by tandpfun (Skill Icons) — https://github.com/tandpfun/skill-icons — used under MIT License. -->
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,angular,js,nodejs,express,nodejs,mongodb,docker,mysql,html,css,c,cs,java,python,linux,dotnet)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,nodejs,express,nodejs,mongodb,docker,mysql,html,css,c,cs,python,linux)](https://github.com/tandpfun/skill-icons)
           
 <br />
 
