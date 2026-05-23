@@ -34,8 +34,8 @@ Fullstack Developer with a B.Sc. in Computer Science. I specialize in Full-Stack
 
 <!-- Repo cards by anuraghazra — https://github.com/anuraghazra/github-readme-stats — used under MIT License. -->
 <p align="center">
-   <a href="https://github.com/l1t48/InkAndInsight-Frontend">
-     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=InkAndInsight-Frontend&theme=tokyonight" />
+   <a href="https://github.com/l1t48/Dependency_Scanner">
+     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Dependency_Scanner&theme=tokyonight" />
    </a>    
    <a href="https://github.com/l1t48/EasyBank">
      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=EasyBank&theme=tokyonight"/>
