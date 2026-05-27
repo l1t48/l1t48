@@ -12,7 +12,7 @@
 
 I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate from Karlstad University. I specialize in building high-fidelity web applications with a heavy focus on **Defense-in-Depth** security and robust system design.
 <p align="left">
-  <a href="https://l1t48.github.io/Portfolio/](https://portfolio-swart-one-48.vercel.app">
+  <a href="https://portfolio-swart-one-48.vercel.app">
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/adnan-hamdan-475b23375/">
