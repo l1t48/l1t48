@@ -8,7 +8,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate from Karlstad University. I specialize in building high-fidelity web applications with a heavy focus on **Defense-in-Depth** security and robust system design.
 <p align="left">
@@ -22,7 +22,7 @@ I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate 
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://github.com/tandpfun/skill-icons">
@@ -32,7 +32,7 @@ I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate 
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=l1t48&show_icons=true&theme=tokyonight&include_all_commits=true" />
@@ -45,7 +45,7 @@ I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate 
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/l1t48/Dependency_Scanner">
