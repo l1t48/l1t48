@@ -10,7 +10,7 @@
 
 ### About Me
 
-I am a **Junior Full-Stack Engineer** and a **B.Sc. Computer Science** graduate from Karlstad University. I specialize in building high-fidelity web applications with a heavy focus on **Defense-in-Depth** security and robust system design.
+I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Karlstad University. I specialize in building high-fidelity web applications with a heavy focus on **Defense-in-Depth** security and robust system design.
 <p align="left">
   <a href="https://portfolio-swart-one-48.vercel.app">
     <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
