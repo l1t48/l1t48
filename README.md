@@ -37,18 +37,12 @@ I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Ka
 
 ---
 
-<!-- ### GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=l1t48&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l1t48&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1t48&theme=tokyonight" />
 </p> 
 
---- -->
 
 ### Featured Projects
 
