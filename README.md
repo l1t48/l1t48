@@ -13,20 +13,23 @@
 I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Karlstad University. I specialize in building high-fidelity web applications with a heavy focus on **Defense-in-Depth** security and robust system design.
 <p align="left">
   <a href="https://portfolio-qdjc.onrender.com">
-    <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white"/>
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adnan-hamdan-475b23375/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
 </p>
 
 ---
 
-### Tech Stack
+### Skills
 
 <p align="center">
-  <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,mysql,docker,tailwind,bootstrap,redux,html,css,cs,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=github,githubactions,linux,c,cs" />
   </a>
 </p>
 
