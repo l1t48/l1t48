@@ -19,6 +19,8 @@ I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Ka
   <a href="https://www.linkedin.com/in/adnan-hamdan-475b23375/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=l1t48&style=for-the-badge&color=5C1280" alt="profile views"/>
 </p>
 
 ---
