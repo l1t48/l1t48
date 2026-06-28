@@ -47,16 +47,16 @@ I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Ka
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/l1t48/Dependency_Scanner">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Dependency_Scanner&theme=tokyonight" />
-  </a>
   <a href="https://github.com/l1t48/SSOP">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=SSOP&theme=tokyonight" />
   </a>
+  <a href="https://github.com/l1t48/Sentinel">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Sentinel&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/l1t48/Dependency_Scanner">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Dependency_Scanner&theme=tokyonight" />
+  </a>
   <a href="https://github.com/l1t48/JobSeeker">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=JobSeeker&theme=tokyonight" />
-  </a>
-    <a href="https://github.com/l1t48/Sentinel">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Sentinel&theme=tokyonight" />
   </a>
 </p>
