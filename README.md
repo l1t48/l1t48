@@ -50,8 +50,8 @@ I am a **full-Stack engineer** and a **B.Sc. Computer Science** graduate from Ka
   <a href="https://github.com/l1t48/Dependency_Scanner">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=Dependency_Scanner&theme=tokyonight" />
   </a>
-  <a href="https://github.com/l1t48/EasyBank">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=EasyBank&theme=tokyonight" />
+  <a href="https://github.com/l1t48/SSOP">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=SSOP&theme=tokyonight" />
   </a>
   <a href="https://github.com/l1t48/JobSeeker">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=l1t48&repo=JobSeeker&theme=tokyonight" />
