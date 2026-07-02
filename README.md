@@ -25,7 +25,7 @@
 
 ---
 
-### Skills
+### Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
