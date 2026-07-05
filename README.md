@@ -25,7 +25,7 @@
 
 ---
 
-### Stack & Skills
+### Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
