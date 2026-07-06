@@ -10,7 +10,7 @@
 
 ### About Me
 
-**Full-Stack engineer** with strong expertise in scalable web applications, security-focused development and modern software architecture. Experienced in designing and building end-to-end systems using React, Node.js, Express, PostgreSQL and MongoDB, with a focus on performance, maintainability and secure-by-design principles. Skilled in API development, real-time systems, authentication and authorization, automated testing with Playwright, as well as containerization and CI/CD using Docker and GitHub Actions. Passionate about delivering robust, high-quality solutions that balance security, reliability and user experience.
+**Full-Stack Engineer** with strong expertise in scalable web applications, security-focused development and modern software architecture. Experienced in designing and building end-to-end systems using React, Node.js, Express, PostgreSQL and MongoDB, with a focus on performance, maintainability and secure-by-design principles. Skilled in API development, real-time systems, authentication and authorization, automated testing with Playwright, as well as containerization and CI/CD using Docker and GitHub Actions. Passionate about delivering robust, high-quality solutions that balance security, reliability and user experience.
 <p align="left">
   <a href="https://portfolio-qdjc.onrender.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" height="35"/>
