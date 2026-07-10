@@ -37,14 +37,6 @@
 
 ---
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1t48&theme=tokyonight" />
-</p> 
-
----
-
 ### Featured Projects
 
 <p align="center">
